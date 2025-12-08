@@ -1,10 +1,28 @@
-# CAT ANALYZER User Documentation
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
 
-Welcome to the **CAT (Climate Action in Transportation) ANALYZER** platform! This documentation will help you navigate and use the platform to analyze transportation emissions data for your planning and analysis needs.
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
 
-## What is CAT ANALYZER?
+# CAT Platform User Documentation
 
-CAT ANALYZER is a web-based platform that helps transportation planners, air quality analysts, and conformity analysts estimate and analyze transportation emissions. The platform provides:
+Welcome to the **CAT (Climate Action in Transportation) Platform**! This documentation will help you navigate and use the platform to analyze transportation emissions data for your planning and analysis needs.
+
+## What is the CAT Platform?
+
+The CAT Platform is a web-based platform that helps transportation planners, air quality analysts, and conformity analysts estimate and analyze transportation emissions. The platform provides:
 
 - **Emissions Modeling**: Submit orders to run MOVES (Motor Vehicle Emission Simulator) models for your geographic areas
 - **Data Visualization**: Create interactive charts and maps of emissions data
@@ -23,9 +41,9 @@ CAT ANALYZER is a web-based platform that helps transportation planners, air qua
 
 ### Core Features
 
-**Order Management**
-- **[Creating Orders](creating-orders.md)**: Submit emissions modeling requests for specific counties and years
-- **[Viewing Orders](viewing-orders.md)**: Track order status, download results, and manage your data
+**Order Management (Cloud MOVES)**
+- **[Creating Orders](creating-orders.md)**: Submit emissions modeling requests for specific counties and years through Cloud MOVES
+- **[Viewing Orders](viewing-orders.md)**: Track order status, download results, and manage your data from Cloud MOVES
 - **[Publishing Data](publishing-data.md)**: Share verified results to the public CAT Grand Database
 
 **Analysis Tools**
@@ -43,11 +61,11 @@ CAT ANALYZER is a web-based platform that helps transportation planners, air qua
 
 ### What is an "Order"?
 
-An **order** is a request to run emissions modeling for a specific geographic area (county) and year. When you create an order:
+An **order** is a request to run emissions modeling for a specific geographic area (county) and year through the **Cloud MOVES** system. Cloud MOVES is the distributed computing infrastructure that processes MOVES emissions calculations. When you create an order:
 
 1. You select a county (using FIPS code or county name) and year
 2. Optionally, you can upload custom MOVES input files to customize the modeling
-3. The system processes your order (typically takes 5-10 minutes)
+3. Cloud MOVES processes your order (typically takes 5-10 minutes)
 4. Results are available for download and visualization
 
 ### Geographic Areas
@@ -80,4 +98,7 @@ You can search by county name or enter the FIPS code directly.
 ---
 
 **Next Steps**: If you're new to the platform, start with [Getting Started](getting-started.md). If you're ready to create your first order, see [Creating Orders](creating-orders.md).
+
+
+
 

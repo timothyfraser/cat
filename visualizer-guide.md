@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Visualizer Guide
 
 Learn how to use the Visualizer to explore your emissions data with interactive charts, maps, and visualizations.
@@ -248,4 +266,7 @@ After exploring your data in the Visualizer:
 ---
 
 **Ready to estimate emissions changes?** See [Calculator Guide](calculator-guide.md) to adjust activity measures and see projected emissions.
+
+
+
 

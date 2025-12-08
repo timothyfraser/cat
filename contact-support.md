@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Contact Support
 
-How to get help and report issues with the CAT ANALYZER platform.
+How to get help and report issues with the CAT Platform.
 
 ## Getting Help
 
@@ -188,4 +206,7 @@ When contacting support, have ready:
 ---
 
 **Need immediate help?** Email tmf77@cornell.edu with your question or issue.
+
+
+
 

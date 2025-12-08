@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Table of Contents
 
-Complete navigation guide for CAT ANALYZER user documentation.
+Complete navigation guide for CAT Platform user documentation.
 
 ## Getting Started
 
@@ -40,4 +58,7 @@ Complete navigation guide for CAT ANALYZER user documentation.
 
 **Quick Links**:
 - [Getting Started](getting-started.md) | [Creating Orders](creating-orders.md) | [Visualizer](visualizer-guide.md) | [FAQ](frequently-asked-questions.md)
+
+
+
 

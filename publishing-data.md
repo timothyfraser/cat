@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Publishing Data
 
 Learn how to publish your verified order results to the public CAT Grand Database, making them available to other users and the public.
@@ -227,4 +245,7 @@ After publishing:
 ---
 
 **Need to get verified?** See [Account Management](account-management.md#verification-for-publishing) for how to request verification.
+
+
+
 

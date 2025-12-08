@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Translators Guide
 
 Learn how to use the Translators tool to edit MOVES input tables for custom emissions modeling scenarios.
@@ -208,4 +226,7 @@ After editing tables:
 ---
 
 **Need to test your changes?** See [Calculator Guide](calculator-guide.md) to estimate emissions with your edited values.
+
+
+
 

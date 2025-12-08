@@ -1,6 +1,6 @@
-# CAT ANALYZER User Documentation
+# CAT Platform User Documentation
 
-This directory contains user documentation for the CAT ANALYZER platform, hosted as a [GitHub Pages site](https://timothyfraser.github.io/cat/).
+This directory contains user documentation for the CAT Platform, hosted as a [GitHub Pages site](https://timothyfraser.github.io/cat/).
 
 ## Working with This Submodule
 
@@ -63,4 +63,7 @@ The public repository (https://github.com/timothyfraser/cat) is configured for G
 ## Documentation Structure
 
 See [table-of-contents.md](table-of-contents.md) for the complete documentation structure.
+
+
+
 

@@ -1,14 +1,32 @@
-# Getting Started with CAT ANALYZER
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
 
-This guide will help you create an account, understand the platform, and take your first steps with CAT ANALYZER.
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
+# Getting Started with the CAT Platform
+
+This guide will help you create an account, understand the platform, and take your first steps with the CAT Platform.
 
 ## Creating Your Account
 
 ### Step 1: Navigate to the Platform
 
-1. Go to the CAT ANALYZER website
+1. Go to the CAT Platform website
 2. You'll see the homepage with information about the platform
-3. Click **"Sign In"** or **"ANALYZER"** to access the login page
+3. Click **"Sign In"** or the platform logo to access the login page
 
 ### Step 2: Sign Up
 
@@ -162,4 +180,7 @@ When you view your orders, you'll see different status messages:
 ---
 
 **Ready to create your first order?** See [Creating Orders](creating-orders.md) for step-by-step instructions.
+
+
+
 

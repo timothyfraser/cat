@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Troubleshooting
 
-Solutions to common issues when using the CAT ANALYZER platform.
+Solutions to common issues when using CAT.
 
 ## Account & Login Issues
 
@@ -324,4 +342,7 @@ See [Contact Support](contact-support.md) for how to reach support.
 ---
 
 **Still having issues?** See [Contact Support](contact-support.md) for assistance.
+
+
+
 

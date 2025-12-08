@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Frequently Asked Questions
 
-Common questions and answers about using the CAT ANALYZER platform.
+Common questions and answers about using the CAT Platform.
 
 ## Account & Access
 
@@ -261,4 +279,7 @@ Yes! Contact support with feature requests or suggestions.
 ---
 
 **Still have questions?** See [Contact Support](contact-support.md) or [Troubleshooting](troubleshooting.md) for more help.
+
+
+
 

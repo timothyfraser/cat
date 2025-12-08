@@ -1,15 +1,30 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Glossary
 
-Definitions of key terms and concepts used in the CAT ANALYZER platform.
+Definitions of key terms and concepts used in the CAT Platform.
 
 ## A
 
 **Aggregation Level**
 - How data is grouped or categorized (e.g., by vehicle type, fuel type, road type)
 - Used in visualizations and reports to show breakdowns
-
-**ANALYZER**
-- The CAT ANALYZER platform - the web application for emissions modeling and analysis
 
 ## C
 
@@ -75,7 +90,7 @@ Definitions of key terms and concepts used in the CAT ANALYZER platform.
 
 **MPO (Metropolitan Planning Organization)**
 - Regional transportation planning organizations
-- Common users of the CAT ANALYZER platform
+- Common users of the CAT Platform
 
 ## O
 
@@ -147,4 +162,7 @@ Definitions of key terms and concepts used in the CAT ANALYZER platform.
 ---
 
 **Need more help?** See [Contact Support](contact-support.md) for assistance.
+
+
+
 

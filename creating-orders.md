@@ -1,12 +1,30 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Creating Orders
 
-Learn how to submit new emissions modeling orders to the CAT ANALYZER platform.
+Learn how to submit new emissions modeling orders through the Cloud MOVES system on the CAT Platform.
 
 ## What is an Order?
 
-An **order** is a request to run emissions modeling for a specific geographic area (county) and year. When you submit an order:
+An **order** is a request to run emissions modeling for a specific geographic area (county) and year through the **Cloud MOVES** system. Cloud MOVES is the distributed computing infrastructure that processes MOVES emissions calculations. When you submit an order:
 
-1. The system runs the MOVES (Motor Vehicle Emission Simulator) model for your selected county and year
+1. Cloud MOVES runs the MOVES (Motor Vehicle Emission Simulator) model for your selected county and year
 2. Processing typically takes 5-10 minutes
 3. Results include emissions data, vehicle miles traveled (VMT), vehicle counts, and more
 4. You can download the results, visualize them, and use them for analysis
@@ -131,10 +149,12 @@ If you're not an admin user:
 
 ## Order Processing
 
+Orders are processed by the **Cloud MOVES** system, which uses distributed cloud computing to run MOVES emissions calculations efficiently.
+
 ### Processing Time
 
 - **Initial Registration**: 1-2 minutes (order appears in table)
-- **Data Processing**: 5-10 minutes (MOVES model runs)
+- **Data Processing**: 5-10 minutes (Cloud MOVES runs MOVES model)
 - **Total Time**: Typically 6-12 minutes from submission to ready
 
 ### Processing Status
@@ -232,4 +252,7 @@ After creating an order:
 ---
 
 **Ready to view your orders?** See [Viewing Orders](viewing-orders.md) for how to check status and download results.
+
+
+
 

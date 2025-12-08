@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Account Management
 
-Manage your CAT ANALYZER profile, subscription, and verification status from your Account page.
+Manage your CAT Platform profile, subscription, and verification status from your Account page.
 
 ## Accessing Your Account
 
@@ -173,4 +191,7 @@ These features are only available to platform administrators.
 ---
 
 **Need help?** See [Frequently Asked Questions](frequently-asked-questions.md) or [Contact Support](contact-support.md).
+
+
+
 

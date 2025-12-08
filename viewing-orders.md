@@ -1,6 +1,24 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Viewing Orders
 
-Learn how to view, manage, and download your emissions modeling orders.
+Learn how to view, manage, and download your emissions modeling orders from the Cloud MOVES system.
 
 ## Accessing Your Orders
 
@@ -145,6 +163,8 @@ You can share access to your order data with colleagues:
 
 ## Understanding Order Data
 
+Orders processed through Cloud MOVES generate comprehensive emissions data for your selected county and year.
+
 ### What Data is Included
 
 Each order contains emissions data organized by:
@@ -251,4 +271,7 @@ After viewing your orders:
 ---
 
 **Ready to visualize your data?** See [Visualizer Guide](visualizer-guide.md) to explore your order results with interactive charts and maps.
+
+
+
 

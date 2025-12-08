@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Data Hub Guide
 
 Learn how to use the Data Hub to download large datasets in bulk from the CAT Grand Database.
@@ -218,4 +236,7 @@ After downloading data:
 ---
 
 **Ready to compare counties?** See [Aggregator Guide](aggregator-guide.md) for side-by-side comparisons.
+
+
+
 

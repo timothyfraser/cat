@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Calculator Guide
 
 Learn how to use the Calculator to estimate how emissions change when you adjust transportation activity measures like vehicle miles traveled (VMT), vehicle counts, and other factors.
@@ -257,4 +275,7 @@ After using the Calculator:
 ---
 
 **Ready to create an order based on your scenario?** See [Creating Orders](creating-orders.md) to submit a full modeling request.
+
+
+
 

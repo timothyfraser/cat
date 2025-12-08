@@ -1,3 +1,21 @@
+<!-- CAT Platform Navigation Bar -->
+<link rel="stylesheet" href="assets/css/navbar.css">
+
+<nav class="cat-navbar">
+  <div class="cat-navbar-container">
+    <div class="cat-navbar-logo">
+      <a href="https://cat-apps.com/" title="CAT Platform">
+        <img src="assets/images/cat_logo.svg" alt="CAT Platform" height="50px">
+      </a>
+    </div>
+    <div class="cat-navbar-links">
+      <a href="https://cat-apps.com/">Dashboard</a>
+      <a href="index.html">Documentation</a>
+      <a href="https://cat-apps.com/">Sign In</a>
+    </div>
+  </div>
+</nav>
+
 # Aggregator Guide
 
 Learn how to use the Aggregator to compare emissions data across multiple counties side-by-side.
@@ -252,4 +270,7 @@ After using the Aggregator:
 ---
 
 **Ready to download data in bulk?** See [Data Hub Guide](data-hub-guide.md) for bulk download capabilities.
+
+
+
 
